@@ -6,10 +6,49 @@
     <description>Recent content in Chapters on Programozás kezdőknek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu-hu</language>
-    <lastBuildDate>Sat, 28 Sep 2019 14:20:54 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2019 16:15:38 +0200</lastBuildDate>
     
 	<atom:link href="https://petiaccja.github.io/LearnToCode/chapters/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Szükséges nem-programozási készségek</title>
+      <link>https://petiaccja.github.io/LearnToCode/chapters/non_coding_skills/</link>
+      <pubDate>Sat, 28 Sep 2019 16:15:38 +0200</pubDate>
+      
+      <guid>https://petiaccja.github.io/LearnToCode/chapters/non_coding_skills/</guid>
+      <description>Stuff.</description>
+    </item>
+    
+    <item>
+      <title>Egyetemek</title>
+      <link>https://petiaccja.github.io/LearnToCode/chapters/universities/</link>
+      <pubDate>Sat, 28 Sep 2019 16:15:21 +0200</pubDate>
+      
+      <guid>https://petiaccja.github.io/LearnToCode/chapters/universities/</guid>
+      <description> Az egyetem előnyei Az egyetem hátrányai Tanulj külföldön Konkrét képzések  BME Mérnökinformatika ELTE Programtervező Informatikus stb.  </description>
+    </item>
+    
+    <item>
+      <title>Programozó képzések</title>
+      <link>https://petiaccja.github.io/LearnToCode/chapters/course_list/</link>
+      <pubDate>Sat, 28 Sep 2019 16:14:54 +0200</pubDate>
+      
+      <guid>https://petiaccja.github.io/LearnToCode/chapters/course_list/</guid>
+      <description> Mik azok a fizetős képzések TODO: Intró a fizetős képzésekről.
+Miben más, mint az egyetem. Egyetemekről bővebben itt olvashatsz.
+Néhány konkrét program  Green Fox stb.  </description>
+    </item>
+    
+    <item>
+      <title>Hasznos források a programozáshoz</title>
+      <link>https://petiaccja.github.io/LearnToCode/chapters/resource_list/</link>
+      <pubDate>Sat, 28 Sep 2019 16:14:36 +0200</pubDate>
+      
+      <guid>https://petiaccja.github.io/LearnToCode/chapters/resource_list/</guid>
+      <description> A következő lista a programozással kapcsolatos könyveket, blogokat, podcastokat, youtube csatornákat és hasonló dolgokat gyűjti össze. Az itt található tartalmak a programozással általában kapcsolatosak, nem egy konkrét nyelvre fókuszálnak
+Könyvek  Robert C. Martin: Clean Code  Podcastok  Letscode  </description>
+    </item>
     
     <item>
       <title>Miért tanuljak meg programozni?</title>
@@ -26,7 +65,8 @@
       <pubDate>Sat, 28 Sep 2019 14:20:45 +0200</pubDate>
       
       <guid>https://petiaccja.github.io/LearnToCode/chapters/contribute/</guid>
-      <description></description>
+      <description>A tech stack A statikus HTML/CSS weboldalt Hugo generálja Markdown fájlokból. A Hugo weblapján a Quick Startot elég átnézni. A lényeg:
+ sudo apt-get install hugo (vagy valami ilyesmi) git clone &amp;ndash;recursive https://github.com/petiaccja/LearnToCode.git cd  hugo server -D nyisd meg a http://localhost:1313/LearnToCode/ weboldalt írj tartalmat  Az új, nyers Markdown tartalommal küldj egy PR-t master branchre, a generált HTML-t dobd ki. A repóra fel van hookolva AppVeyor CI, ami Hugo-val generálja a HTML-t cloudon, és pusholja a &amp;ldquo;gh-pages&amp;rdquo; branchre, így minden commit után automatikusan frissül a weboldal, tekintve hogy a generálás hiba nélkül futott.</description>
     </item>
     
     <item>
@@ -35,7 +75,9 @@
       <pubDate>Sat, 28 Sep 2019 13:01:06 +0200</pubDate>
       
       <guid>https://petiaccja.github.io/LearnToCode/chapters/pick_a_language/</guid>
-      <description>What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+      <description>Válassz a céljaidnak megfelelőt A lista C
+Python
+Java</description>
     </item>
     
   </channel>
