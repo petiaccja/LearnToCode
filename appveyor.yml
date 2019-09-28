@@ -62,7 +62,7 @@ build_script:
 
 on_success:
   - mkdir C:\projects\gen
-  - xcopy /S public C:\projects\gen\public
+  - xcopy /S public C:\projects\gen\
   - git checkout gh-pages
   - xcopy /S C:\projects\gen\public\* .
   - git commit -a -m "Updates generated files"
