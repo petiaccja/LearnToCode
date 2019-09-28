@@ -33,6 +33,10 @@ clone_folder: C:\projects\LearnToCode
 # this is how to allow failing jobs in the matrix
 matrix:
   fast_finish: true
+  
+environment:
+  access_token:
+    secure: 44rXJx5ePiHhRQh9LVZDrUXXFNxdydxEhThZiJp4sTP8O/EqN/8s+vWbWT7RyR6i
 
 
 #---------------------------------#
@@ -61,6 +65,10 @@ build_script:
 #---------------------------------#
 
 on_success:
+  - git config --global credential.helper store
+  - ps: Add-Content "$HOME\.git-credentials" "https://$($env:access_token):x-oauth-basic@github.com`n"
+  - git config --global user.email "kardospeter1994@hotmail.com"
+  - git config --global user.name "Peter Kardos AppVeyor CI"
   - mkdir C:\projects\gen
   - mkdir C:\projects\gen\public
   - xcopy /S public C:\projects\gen\public
