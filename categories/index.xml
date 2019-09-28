@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Programozás kezdőknek</title>
+    <link>https://petiaccja.github.io/LearnToCode/categories/</link>
+    <description>Recent content in Categories on Programozás kezdőknek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu-hu</language>
+    
+	<atom:link href="https://petiaccja.github.io/LearnToCode/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
