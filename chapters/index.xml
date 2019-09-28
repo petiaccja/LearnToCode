@@ -6,10 +6,28 @@
     <description>Recent content in Chapters on Programozás kezdőknek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu-hu</language>
-    <lastBuildDate>Sat, 28 Sep 2019 13:01:06 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2019 14:20:54 +0200</lastBuildDate>
     
 	<atom:link href="https://petiaccja.github.io/LearnToCode/chapters/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Miért tanuljak meg programozni?</title>
+      <link>https://petiaccja.github.io/LearnToCode/chapters/why_learn_coding/</link>
+      <pubDate>Sat, 28 Sep 2019 14:20:54 +0200</pubDate>
+      
+      <guid>https://petiaccja.github.io/LearnToCode/chapters/why_learn_coding/</guid>
+      <description>Mert jól fizet. Jó, nem, azért inkább ne tanuld meg.</description>
+    </item>
+    
+    <item>
+      <title>A weboldal bővítése</title>
+      <link>https://petiaccja.github.io/LearnToCode/chapters/contribute/</link>
+      <pubDate>Sat, 28 Sep 2019 14:20:45 +0200</pubDate>
+      
+      <guid>https://petiaccja.github.io/LearnToCode/chapters/contribute/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Melyik nyelvet válasszam?</title>
