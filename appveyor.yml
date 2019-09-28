@@ -57,6 +57,7 @@ build: off
 # Use custom script to build
 build_script:
 - cmd: |-
+    cd /d C:\projects\LearnToCode
     hugo
     
 
@@ -71,7 +72,9 @@ on_success:
   - git config --global user.name "Peter Kardos AppVeyor CI"
   - mkdir C:\projects\gen
   - mkdir C:\projects\gen\public
+  - cd /d C:\projects\LearnToCode
   - xcopy /S public C:\projects\gen\public
+  - del /S /Q public
   - git checkout gh-pages
   - xcopy /S C:\projects\gen\public .
   - git add --all
