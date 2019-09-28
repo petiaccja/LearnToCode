@@ -1,0 +1,72 @@
+#---------------------------------#
+#      general configuration      #
+#---------------------------------#
+
+# version format
+version: 1.0.{build}
+
+
+# branches to build
+branches:
+  only:
+    - master
+
+
+#---------------------------------#
+#    environment configuration    #
+#---------------------------------#
+
+# Build worker image (VM template)
+image: 
+  - Visual Studio 2017
+
+# scripts that are called at very beginning, before repo cloning
+init:
+  - git config --global core.autocrlf input
+  - choco install hugo
+
+# clone directory
+clone_folder: C:\projects\LearnToCode
+
+
+
+# this is how to allow failing jobs in the matrix
+matrix:
+  fast_finish: true
+
+
+#---------------------------------#
+#       build configuration       #
+#---------------------------------#
+
+# to add several platforms to build matrix:
+platform:
+  - x64
+
+# to add several configurations to build matrix:
+configuration:
+  - Debug
+
+# We don't want MSBuild
+build: off
+
+# Use custom script to build
+build_script:
+- cmd: |-
+    hugo
+    
+
+#---------------------------------#
+#             deploy              #
+#---------------------------------#
+
+on_success:
+  - cmd: |-
+    mkdir C:\projects\gen
+    xcopy public C:\projects\gen\public
+    git checkout gh-pages
+    xcopy C:\projects\gen\public\* .
+  - git commit -a -m "Updates generated files"
+  - git push
+  - git checkout master
+
