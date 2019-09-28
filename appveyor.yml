@@ -50,6 +50,9 @@ platform:
 # to add several configurations to build matrix:
 configuration:
   - Debug
+  
+install:
+  - git submodule update --init --recursive
 
 # We don't want MSBuild
 build: off
@@ -76,7 +79,7 @@ on_success:
   - xcopy /S public C:\projects\gen\public
   - del /S /Q public
   - git checkout gh-pages
-  - xcopy /S C:\projects\gen\public .
+  - xcopy /S /Y C:\projects\gen\public .
   - git add --all
   - git commit -m "Updates generated files"
   - git push
