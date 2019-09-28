@@ -74,7 +74,8 @@ on_success:
   - xcopy /S public C:\projects\gen\public
   - git checkout gh-pages
   - xcopy /S C:\projects\gen\public .
-  - git commit -a -m "Updates generated files"
+  - git add --all
+  - git commit -m "Updates generated files"
   - git push
   - git checkout master
 
