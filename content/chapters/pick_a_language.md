@@ -113,6 +113,7 @@ PHP
 HTML + CSS
 ---
 Ezek nem programozási nyelvek, hanem leíró nyelvek, azt mondják meg, hogy hogyan nézzen ki valami, nem pedig azt, hogy hogy működjön.
+
 **Területek**: Webfejlesztés, egy honlap szerkezetét (HTML) és kinézetét (CSS) mondják meg, a böngésző dolgozza fel. Javascripttel is lehet interaktívan kezelni az elemeit, ezt írja le a DOM API ( https://developer.mozilla.org/hu/docs/Web/API/Dokumentum_Objektum_Model ), de egy egyszerű landing page-t vagy bemutatkozó oldalt javascript nélkül is össze lehet benne rakni.
 
 **Hol**: https://www.freecodecamp.org, https://www.w3schools.com/
