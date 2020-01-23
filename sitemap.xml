@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -31,6 +31,11 @@
   <url>
     <loc>https://petiaccja.github.io/LearnToCode/chapters/resource_list/</loc>
     <lastmod>2019-09-28T16:14:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petiaccja.github.io/LearnToCode/chapters/where_to_begin/</loc>
+    <lastmod>2019-09-28T14:20:54+02:00</lastmod>
   </url>
   
   <url>
