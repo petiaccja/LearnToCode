@@ -16,7 +16,7 @@ A programozás azon kevés tevékenységek egyike, amit az idődön és a képes
 
 +Sok embert elérhetsz
 ---
-Rengeteg terméket fizikai úton kell terjeszteni, egy programod viszont elég feltölteni az app store-ba. Ha van valami jó ötleted, akkor nagy embertömegekre lehetsz hatással. Lehetsz jóarc, de szét is hackelhetsz dolgokat.
+Rengeteg terméket fizikai úton kell terjeszteni, egy programot viszont elég feltölteni az app store-ba. Ha van valami jó ötleted, akkor nagy embertömegekre lehetsz hatással. Lehetsz jóarc, de szét is hackelhetsz dolgokat.
 
 +A fizetés
 ---
@@ -24,15 +24,15 @@ Gazdaságtanon volt valami kínálat-kereslet dolog... Rengeteg programozóra va
 
 +Mobilitás
 ---
-Gyakorlatilag bármelyik fejlett országban kapnak is munkát. Egy ügyvéddel szemben, aki a helyi törvényt ismeri, a programozó tudása univerzális. Amennyiben a munkatársakkal tudsz kommunikálni, bármelyik országban tudsz munkát vállalni, és ez sokszor könnyebb is tud lenni hiszen nagy a kereslet. Ami a kommunikációt illeti, a szakma nyelve olyannyira az angol, hogy a helyi nyelv ismerete nélkül is fogsz tudni munkát találni, de persze a helyi nyelvismeret segít.
+Gyakorlatilag bármelyik fejlett országban kapnak is munkát. Egy ügyvéddel szemben, aki a helyi törvényt ismeri, a programozó tudása univerzális. Amennyiben a munkatársakkal tudsz kommunikálni, bármelyik országban tudsz munkát vállalni, és ez sokszor könnyebb is tud lenni hiszen nagy a kereslet. Ami a kommunikációt illeti, a szakma nyelve olyannyira az angol, úgy valószínűleg hogy a helyi nyelv ismerete nélkül is fogsz tudni munkát találni, de persze a helyi nyelvismeret segít.
 
 -Ez is csak egy munka
 ---
-Hülye főnökök, működésképtelen management, stressz, idióta kollégák... ettől a programozás se véd meg. A különösen kellemetlen része a dolognak, amikor az alkotói szabadságodat limitálja a helyzet, hiszen amiatt élvezetes a programozás. Alkotói szabadságnélkül persze a fejlesztéseid se fognak kihatni a világra úgy, ahogy te szeretnéd. Szerencsére a mobilitás miatt válthatsz munkahelyet sűrűn, remélhetőleg a következő jobb lesz.
+Hülye főnökök, működésképtelen management, stressz, idióta kollégák... ettől a programozás se véd meg. A különösen kellemetlen része a dolognak, amikor az alkotói szabadságodat limitálja a helyzet, hiszen amiatt élvezetes a programozás. Alkotói szabadság nélkül persze a fejlesztéseid se fognak kihatni a világra úgy, ahogy te szeretnéd. Szerencsére a mobilitás miatt válthatsz munkahelyet sűrűn, remélhetőleg a következő jobb lesz.
 
 -Határidők, mocskolás
 ---
-Amikor valaminek tegnapra kell elkészülnie, az lehet hogy szép fényes lesz kívül, de belül rohadni fog. Amikor a kód rohad, akkor ronda, átláthatatlan, rendkívül nehéz és lassú vele dolgozni. Ez is rendesen lenullázza a kreativitást, és sokszor se a managementnek se a kollégáknak nincs kompetenciája a rohadás megállításában, vagy egyszerűen meghalna a cég a takarításban.
+Amikor valaminek tegnapra kell elkészülnie, az lehet hogy szép, fényes lesz kívül, de belül rohadni fog. Amikor a kód rohad, akkor ronda, átláthatatlan, rendkívül nehéz és lassú vele dolgozni. Ez is rendesen lenullázza a kreativitást, és sokszor se a managementnek se a kollégáknak nincs kompetenciája a rohadás megállításában, vagy egyszerűen meghalna a cég a takarításban.
 
 ±Mentális kihívás
 ---
@@ -48,6 +48,5 @@ Mindenképpen érdemes elkezdeni és programozni egy keveset, mert csak úgy lá
 
 Ha viszont csak a pénz érdekel, akkor nem biztos, hogy jó választás. Csak mert van csocsóasztal meg babzsák a munkahelyen, a programozás még nem könnyű munka, és szenvedni fogsz vele. A leendő kollégák se fognak örülni amikor a te kódodat kell újraírni, hiszen ha nem vagy motivált, akkor nem tanulod meg a legújabb technikákat és a kódod minősége nem lesz megfelelő.
 
-
-
+Ha még egy kicsit olvasni akarsz, akkor [itt]({{< ref "/chapters/where_to_begin.md" >}}) megteheted, ha fejest akarsz ugarni és a programnyelven töröd a fejed, akkor olvasd el [ezt]({{< ref "/chapters/pick_a_language.md" >}}).
 

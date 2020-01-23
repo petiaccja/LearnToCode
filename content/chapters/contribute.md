@@ -25,14 +25,16 @@ Tartalom
 
 Egyelőre van egy főoldal (content/_index.md) és néhány fejezet (content/chapters/valami.md). Alapjáraton ezeket a Markdown fájlokat lehet buzizni, illetve lehet újakat hozzáadni a chapters-be. Új fejezet esetén persze az index.md-t is szerkeszteni kell, hogy elérhető legyen a tartalom. Egyelőre az index page tartalmaz egy linket az összes fejezetre, nem túl bonyolult.
 
+Ha valamiről írni akarsz, akkor hajrá. Minél több ember ír, annál jobb, hiszen egy embernek úgysincs elég széles látóköre, hogy mindent leírjon.
+
 
 Képek, miegymás
 ---
 
-A Hugo leírásában megtaláljátok, de őszintén szólva 2 óra után nem nevezném magam expertnek a témában.
+A Hugo leírásában megtaláljátok, gondolom.
 
 
-Jézus isten hol tanultál te webfejleszteni...?
+Style
 ---
 
-Azért néz ki a weboldalt úgy, mintha egy kezdő hákolta volna össze két óra alatt, mert így is van :D Sajna rohadtul nem értek a webhez, úgyhogy aki igen az megcsinálhatja a style-t meg ilyesmiket rendesen.
+Ha a style-k megcsináljátok rendesen, az is hasznos.

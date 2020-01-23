@@ -4,6 +4,8 @@ date: 2019-09-28T16:14:54+02:00
 draft: false
 ---
 
+TODO:
+
 Mik azok a fizetős képzések
 ---
 

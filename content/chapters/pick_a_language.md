@@ -8,8 +8,11 @@ draft: false
 Válassz a céljaidnak megfelelőt
 ---
 
-Arra, hogy milyen nyelvet válassz, nem lehet konkrét választ adni, mert mindegyiknek megvannak az előnyei és a hátrányai. Amennyiben tudod, hogy mi az a projekt, amit programozással szeretnél megvalósítani, érdemes az ahhoz legmegfelelőbb nyelvet és technológiát tanulni. Mobil, desktop, játék, web, arduino, üzleti? Fusd végig a nyelvek listáját, és keress egy testhez állót. [Rövid összefoglaló néhány hasznos / népszerű nyelvről magyarul: http://indiecrawford.blog.hu/2016/10/28/melyik-programnyelvet-tanuljam]
-Ha nincs konkrét terved, akkor döntsd el, hogy gyors sikereket akarsz, vagy alaposan meg akarod érteni a dolgot működését, és könnyebbé tenni a további nyelvek és techbológiák tanulását.
+A programnyelvet a feladathoz választjuk. Ez nem csak professzionális fejlesztőknél fontos, hanem kezdőknél is. Először álmodd meg, hogy a programozás mely területe érdekel, aztán tudd meg, hogy mely nyelvek használatosak azon a területen. Ha ez megvan, akkor nincs más hátra, mint előre: ess neki annak a programnyelvnek egyszerűbb feladatokkal. Az alábbi lista biztos segít a döntésben, és hogy mi legyen az első lépés utána.
+
+Ha esetleg nincs tudod, hogy melyik terület érdekel, csak kódolni akarsz, akkor csak válassz valami testhez állót. Gyors sikereket és könnyű indulást akarsz? Python. Szereted a kihívásokat, és érdekel a dolgok mikéntje? C++. Mellé nem foghatsz, az egyik nyelvben megszerzett gondolkodásmód és logika könnyen átültethető egy másikba, így később könnyű váltani, ha már tudsz programozni.
+
+Ez hasznos lehet: http://indiecrawford.blog.hu/2016/10/28/melyik-programnyelvet-tanuljam
 
 Néhány releváns nyelv:
 ---

@@ -1,4 +1,4 @@
 baseURL = "https://petiaccja.github.io/LearnToCode/"
 languageCode = "hu-hu"
 title = "Programozás kezdőknek"
-theme = "ananke"
+theme = "ananke_mod"

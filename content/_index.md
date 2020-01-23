@@ -7,11 +7,12 @@ A legfontosabb információkat megtaláljátok az alábbi fejezetekben:
 
 
 - [Miért tanuljak meg programozni?]({{< ref "/chapters/why_learn_coding.md" >}})
+- [Hol kezdjem el ezt az egészet?]({{< ref "/chapters/where_to_begin.md" >}})
 - [Melyik programnyelvet válasszam?]({{< ref "/chapters/pick_a_language.md" >}})
-- [Anyagok a programozásról]({{< ref "/chapters/resource_list.md" >}})
-- [Az egyetemi képzésről]({{< ref "/chapters/universities.md" >}})
-- [Kell-e matek/fizika/stb.?]({{< ref "/chapters/non_coding_skills.md" >}})
-- [Programozó képzések (nem egyetem)]({{< ref "/chapters/course_list.md" >}})
+- Általános anyagok a programozásról [TODO]({{< ref "/chapters/resource_list.md" >}})
+- A bootcampekről bővebben [TODO]({{< ref "/chapters/course_list.md" >}})
+- Az egyetemi képzésekről bővebben [TODO]({{< ref "/chapters/universities.md" >}})
+- A tudományos ismeretekről bővebben [TODO]({{< ref "/chapters/non_coding_skills.md" >}})
 
 
 Kedves Tapasztalt Kollégák!

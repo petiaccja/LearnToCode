@@ -4,6 +4,8 @@ date: 2019-09-28T16:14:36+02:00
 draft: false
 ---
 
+TODO
+
 A következő lista a programozással kapcsolatos könyveket, blogokat, podcastokat, youtube csatornákat és hasonló dolgokat gyűjti össze. Az itt található tartalmak a programozással általában kapcsolatosak, nem egy konkrét nyelvre fókuszálnak
 
 Könyvek
