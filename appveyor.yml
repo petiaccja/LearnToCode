@@ -69,19 +69,17 @@ build_script:
 #---------------------------------#
 
 on_success:
-  - git config --global credential.helper store
-  - ps: Add-Content "$HOME\.git-credentials" "https://$($env:access_token):x-oauth-basic@github.com`n"
+  # Add private key to 
+  - ps: $fileContent = "-----BEGIN RSA PRIVATE KEY-----`n"
+  - ps: $fileContent += $env:priv_key.Replace(' ', "`n")
+  - ps: $fileContent += "`n-----END RSA PRIVATE KEY-----`n"
+  - ps: Set-Content $env:userprofile\.ssh\id_rsa $fileContent
+  - mkdir C:\projects\deploy
+  - cd C:\projects\deploy
   - git config --global user.email "kardospeter1994@hotmail.com"
   - git config --global user.name "Peter Kardos AppVeyor CI"
-  - mkdir C:\projects\gen
-  - mkdir C:\projects\gen\public
-  - cd /d C:\projects\LearnToCode
-  - xcopy /S public C:\projects\gen\public
-  - del /S /Q public
-  - git checkout gh-pages
-  - xcopy /S /Y C:\projects\gen\public .
+  - git clone --single-branch --branch gh-pages git@github.com:petiaccja/LearnToCode.git .
+  - xcopy /S /Y C:\projects\LearnToCode\public C:\projects\deploy
   - git add --all
   - git commit -m "Updates generated files"
   - git push
-  - git checkout master
-
