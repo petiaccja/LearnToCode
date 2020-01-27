@@ -6,7 +6,7 @@
     
     <title>Programozás kezdőknek  | A weboldal bővítése</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="generator" content="Hugo 0.63.1" />
     
     
       <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
@@ -27,27 +27,24 @@
 
     <meta property="og:title" content="A weboldal bővítése" />
 <meta property="og:description" content="A tech stack A statikus HTML/CSS weboldalt Hugo generálja Markdown fájlokból. A Hugo weblapján a Quick Startot elég átnézni. A lényeg:
- sudo apt-get install hugo (vagy valami ilyesmi) git clone &ndash;recursive https://github.com/petiaccja/LearnToCode.git cd  hugo server -D nyisd meg a http://localhost:1313/LearnToCode/ weboldalt írj tartalmat  Az új, nyers Markdown tartalommal küldj egy PR-t master branchre, a generált HTML-t dobd ki. A repóra fel van hookolva AppVeyor CI, ami Hugo-val generálja a HTML-t cloudon, és pusholja a &ldquo;gh-pages&rdquo; branchre, így minden commit után automatikusan frissül a weboldal, tekintve hogy a generálás hiba nélkül futott." />
+ sudo apt-get install hugo (vagy valami ilyesmi) git clone &ndash;recursive https://github.com/petiaccja/LearnToCode.git cd &lt;repo_root&gt; hugo server -D nyisd meg a http://localhost:1313/LearnToCode/ weboldalt írj tartalmat  Az új, nyers Markdown tartalommal küldj egy PR-t master branchre, a generált HTML-t dobd ki. A repóra fel van hookolva AppVeyor CI, ami Hugo-val generálja a HTML-t cloudon, és pusholja a &ldquo;gh-pages&rdquo; branchre, így minden commit után automatikusan frissül a weboldal, tekintve hogy a generálás hiba nélkül futott." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://petiaccja.github.io/LearnToCode/chapters/contribute/" />
 <meta property="article:published_time" content="2019-09-28T14:20:45+02:00" />
 <meta property="article:modified_time" content="2019-09-28T14:20:45+02:00" />
 <meta itemprop="name" content="A weboldal bővítése">
 <meta itemprop="description" content="A tech stack A statikus HTML/CSS weboldalt Hugo generálja Markdown fájlokból. A Hugo weblapján a Quick Startot elég átnézni. A lényeg:
- sudo apt-get install hugo (vagy valami ilyesmi) git clone &ndash;recursive https://github.com/petiaccja/LearnToCode.git cd  hugo server -D nyisd meg a http://localhost:1313/LearnToCode/ weboldalt írj tartalmat  Az új, nyers Markdown tartalommal küldj egy PR-t master branchre, a generált HTML-t dobd ki. A repóra fel van hookolva AppVeyor CI, ami Hugo-val generálja a HTML-t cloudon, és pusholja a &ldquo;gh-pages&rdquo; branchre, így minden commit után automatikusan frissül a weboldal, tekintve hogy a generálás hiba nélkül futott.">
-
-
+ sudo apt-get install hugo (vagy valami ilyesmi) git clone &ndash;recursive https://github.com/petiaccja/LearnToCode.git cd &lt;repo_root&gt; hugo server -D nyisd meg a http://localhost:1313/LearnToCode/ weboldalt írj tartalmat  Az új, nyers Markdown tartalommal küldj egy PR-t master branchre, a generált HTML-t dobd ki. A repóra fel van hookolva AppVeyor CI, ami Hugo-val generálja a HTML-t cloudon, és pusholja a &ldquo;gh-pages&rdquo; branchre, így minden commit után automatikusan frissül a weboldal, tekintve hogy a generálás hiba nélkül futott.">
 <meta itemprop="datePublished" content="2019-09-28T14:20:45&#43;02:00" />
 <meta itemprop="dateModified" content="2019-09-28T14:20:45&#43;02:00" />
-<meta itemprop="wordCount" content="179">
+<meta itemprop="wordCount" content="180">
 
 
 
-<meta itemprop="keywords" content="" />
-<meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="A weboldal bővítése"/>
 <meta name="twitter:description" content="A tech stack A statikus HTML/CSS weboldalt Hugo generálja Markdown fájlokból. A Hugo weblapján a Quick Startot elég átnézni. A lényeg:
- sudo apt-get install hugo (vagy valami ilyesmi) git clone &ndash;recursive https://github.com/petiaccja/LearnToCode.git cd  hugo server -D nyisd meg a http://localhost:1313/LearnToCode/ weboldalt írj tartalmat  Az új, nyers Markdown tartalommal küldj egy PR-t master branchre, a generált HTML-t dobd ki. A repóra fel van hookolva AppVeyor CI, ami Hugo-val generálja a HTML-t cloudon, és pusholja a &ldquo;gh-pages&rdquo; branchre, így minden commit után automatikusan frissül a weboldal, tekintve hogy a generálás hiba nélkül futott."/>
+ sudo apt-get install hugo (vagy valami ilyesmi) git clone &ndash;recursive https://github.com/petiaccja/LearnToCode.git cd &lt;repo_root&gt; hugo server -D nyisd meg a http://localhost:1313/LearnToCode/ weboldalt írj tartalmat  Az új, nyers Markdown tartalommal küldj egy PR-t master branchre, a generált HTML-t dobd ki. A repóra fel van hookolva AppVeyor CI, ami Hugo-val generálja a HTML-t cloudon, és pusholja a &ldquo;gh-pages&rdquo; branchre, így minden commit után automatikusan frissül a weboldal, tekintve hogy a generálás hiba nélkül futott."/>
 
   </head>
 
@@ -101,35 +98,23 @@
       
     </header>
 
-    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l">
-
-<h2 id="a-tech-stack">A tech stack</h2>
-
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l"><h2 id="a-tech-stack">A tech stack</h2>
 <p>A statikus HTML/CSS weboldalt <a href="https://gohugo.io/">Hugo</a> generálja Markdown fájlokból. A Hugo weblapján a Quick Startot elég átnézni. A lényeg:</p>
-
 <ol>
 <li>sudo apt-get install hugo (vagy valami ilyesmi)</li>
 <li>git clone &ndash;recursive <a href="https://github.com/petiaccja/LearnToCode">https://github.com/petiaccja/LearnToCode.git</a></li>
-<li>cd <repo_root></li>
+<li>cd &lt;repo_root&gt;</li>
 <li>hugo server -D</li>
 <li>nyisd meg a <a href="http://localhost:1313/LearnToCode/">http://localhost:1313/LearnToCode/</a> weboldalt</li>
 <li>írj tartalmat</li>
 </ol>
-
 <p>Az új, nyers Markdown tartalommal küldj egy PR-t master branchre, a generált HTML-t dobd ki. A repóra fel van hookolva AppVeyor CI, ami Hugo-val generálja a HTML-t cloudon, és pusholja a &ldquo;gh-pages&rdquo; branchre, így minden commit után automatikusan frissül a weboldal, tekintve hogy a generálás hiba nélkül futott.</p>
-
 <h2 id="tartalom">Tartalom</h2>
-
 <p>Egyelőre van egy főoldal (content/_index.md) és néhány fejezet (content/chapters/valami.md). Alapjáraton ezeket a Markdown fájlokat lehet buzizni, illetve lehet újakat hozzáadni a chapters-be. Új fejezet esetén persze az index.md-t is szerkeszteni kell, hogy elérhető legyen a tartalom. Egyelőre az index page tartalmaz egy linket az összes fejezetre, nem túl bonyolult.</p>
-
 <p>Ha valamiről írni akarsz, akkor hajrá. Minél több ember ír, annál jobb, hiszen egy embernek úgysincs elég széles látóköre, hogy mindent leírjon.</p>
-
 <h2 id="képek-miegymás">Képek, miegymás</h2>
-
 <p>A Hugo leírásában megtaláljátok, gondolom.</p>
-
 <h2 id="style">Style</h2>
-
 <p>Ha a style-k megcsináljátok rendesen, az is hasznos.</p>
 <ul class="pa0">
   

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programozás kezdőknek</title>
@@ -26,7 +26,7 @@
       <pubDate>Sat, 28 Sep 2019 16:15:21 +0200</pubDate>
       
       <guid>https://petiaccja.github.io/LearnToCode/chapters/universities/</guid>
-      <description> TODO
+      <description>TODO
 Az egyetem előnyei Az egyetem hátrányai Tanulj külföldön Konkrét képzések  BME Mérnökinformatika ELTE Programtervező Informatikus stb.  </description>
     </item>
     
@@ -36,7 +36,7 @@ Az egyetem előnyei Az egyetem hátrányai Tanulj külföldön Konkrét képzés
       <pubDate>Sat, 28 Sep 2019 16:14:54 +0200</pubDate>
       
       <guid>https://petiaccja.github.io/LearnToCode/chapters/course_list/</guid>
-      <description> TODO:
+      <description>TODO:
 Mik azok a fizetős képzések TODO: Intró a fizetős képzésekről.
 Miben más, mint az egyetem. Egyetemekről bővebben itt olvashatsz.
 Néhány konkrét program  Green Fox stb.  </description>
@@ -48,7 +48,7 @@ Néhány konkrét program  Green Fox stb.  </description>
       <pubDate>Sat, 28 Sep 2019 16:14:36 +0200</pubDate>
       
       <guid>https://petiaccja.github.io/LearnToCode/chapters/resource_list/</guid>
-      <description> TODO
+      <description>TODO
 A következő lista a programozással kapcsolatos könyveket, blogokat, podcastokat, youtube csatornákat és hasonló dolgokat gyűjti össze. Az itt található tartalmak a programozással általában kapcsolatosak, nem egy konkrét nyelvre fókuszálnak
 Könyvek  Robert C. Martin: Clean Code  Podcastok  Letscode  </description>
     </item>
@@ -79,7 +79,7 @@ Könyvek  Robert C. Martin: Clean Code  Podcastok  Letscode  </description>
       
       <guid>https://petiaccja.github.io/LearnToCode/chapters/contribute/</guid>
       <description>A tech stack A statikus HTML/CSS weboldalt Hugo generálja Markdown fájlokból. A Hugo weblapján a Quick Startot elég átnézni. A lényeg:
- sudo apt-get install hugo (vagy valami ilyesmi) git clone &amp;ndash;recursive https://github.com/petiaccja/LearnToCode.git cd  hugo server -D nyisd meg a http://localhost:1313/LearnToCode/ weboldalt írj tartalmat  Az új, nyers Markdown tartalommal küldj egy PR-t master branchre, a generált HTML-t dobd ki. A repóra fel van hookolva AppVeyor CI, ami Hugo-val generálja a HTML-t cloudon, és pusholja a &amp;ldquo;gh-pages&amp;rdquo; branchre, így minden commit után automatikusan frissül a weboldal, tekintve hogy a generálás hiba nélkül futott.</description>
+ sudo apt-get install hugo (vagy valami ilyesmi) git clone &amp;ndash;recursive https://github.com/petiaccja/LearnToCode.git cd &amp;lt;repo_root&amp;gt; hugo server -D nyisd meg a http://localhost:1313/LearnToCode/ weboldalt írj tartalmat  Az új, nyers Markdown tartalommal küldj egy PR-t master branchre, a generált HTML-t dobd ki. A repóra fel van hookolva AppVeyor CI, ami Hugo-val generálja a HTML-t cloudon, és pusholja a &amp;ldquo;gh-pages&amp;rdquo; branchre, így minden commit után automatikusan frissül a weboldal, tekintve hogy a generálás hiba nélkül futott.</description>
     </item>
     
     <item>
