@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>A programozók rendszertana</title>
+      <link>https://petiaccja.github.io/LearnToCode/chapters/types_of_programmers/</link>
+      <pubDate>Sat, 28 Sep 2019 16:15:21 +0200</pubDate>
+      
+      <guid>https://petiaccja.github.io/LearnToCode/chapters/types_of_programmers/</guid>
+      <description>Történelem Az 1940-es és 50-es években számottevő technológiai fejlődést figyelhettünk meg. Nem véletlen, hogy ebben földtörténeti időszakban fejlődött ki a homo eniacus, ismertebb nevén az előprogramozó. Noha ez a faj rendkívül jól alkalmazkodott a környezetéhez, képességei messze elmaradnak jelenkori leszármazottjaitól. Limitált eszközhasználatot figyelhetünk meg: a feltárások során a kutatók lyukkártyákra és elektroncsövekre bukkantak. A faj kognitív képességei kimagaslóak. A jelenkori leszármazottjaira egységesen homo binaricusként (programozó) hivatkozunk, noha valójában több rokon fajról beszélünk.</description>
+    </item>
+    
+    <item>
       <title>Egyetemek</title>
       <link>https://petiaccja.github.io/LearnToCode/chapters/universities/</link>
       <pubDate>Sat, 28 Sep 2019 16:15:21 +0200</pubDate>
@@ -90,15 +99,6 @@ Könyvek  Robert C. Martin: Clean Code  Podcastok  Letscode  </description>
       <guid>https://petiaccja.github.io/LearnToCode/chapters/pick_a_language/</guid>
       <description>Válassz a céljaidnak megfelelőt A programnyelvet a feladathoz választjuk. Ez nem csak professzionális fejlesztőknél fontos, hanem kezdőknél is. Először álmodd meg, hogy a programozás mely területe érdekel, aztán tudd meg, hogy mely nyelvek használatosak azon a területen. Ha ez megvan, akkor nincs más hátra, mint előre: ess neki annak a programnyelvnek egyszerűbb feladatokkal. Az alábbi lista biztos segít a döntésben, és hogy mi legyen az első lépés utána.
 Ha esetleg nem tudod, hogy melyik terület érdekel, csak kódolni akarsz, akkor csak válassz valami testhez állót.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://petiaccja.github.io/LearnToCode/chapters/types_of_programmers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://petiaccja.github.io/LearnToCode/chapters/types_of_programmers/</guid>
-      <description></description>
     </item>
     
   </channel>
