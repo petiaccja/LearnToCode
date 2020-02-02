@@ -26,8 +26,8 @@
       <pubDate>Sat, 28 Sep 2019 16:15:21 +0200</pubDate>
       
       <guid>https://petiaccja.github.io/LearnToCode/chapters/universities/</guid>
-      <description>TODO
-Az egyetem előnyei Az egyetem hátrányai Tanulj külföldön Konkrét képzések  BME Mérnökinformatika ELTE Programtervező Informatikus stb.  </description>
+      <description>Az európai képzési struktúra dióhéjban Az európai egyetemi képzés két fázisban zajlik:
+ Bachelor of Science (B.S, BSc): 3 év, 180 ECTS. Átfogó szakmai ismereteket ad, amelyek egyrészről felkészítenek a munkára, másrészről biztosítják a szükséges alapokat az MSc képzéshez. Master of Science (M.S, MSc): 2 év, 120 ECTS. Specializált és részletes szakmai ismereteket ad, jobban elmélyíti a tudást a BSc egy kiválasztott területén.  Kicsit hasonlít a gimnázium &amp;lt;=&amp;gt; egyetem kapcsolathoz, ahol gimiben minden szart megtanultatnak veled, aztán egyetemen végre azt tanulod, ami tényleg érdekel.</description>
     </item>
     
     <item>
@@ -89,7 +89,16 @@ Könyvek  Robert C. Martin: Clean Code  Podcastok  Letscode  </description>
       
       <guid>https://petiaccja.github.io/LearnToCode/chapters/pick_a_language/</guid>
       <description>Válassz a céljaidnak megfelelőt A programnyelvet a feladathoz választjuk. Ez nem csak professzionális fejlesztőknél fontos, hanem kezdőknél is. Először álmodd meg, hogy a programozás mely területe érdekel, aztán tudd meg, hogy mely nyelvek használatosak azon a területen. Ha ez megvan, akkor nincs más hátra, mint előre: ess neki annak a programnyelvnek egyszerűbb feladatokkal. Az alábbi lista biztos segít a döntésben, és hogy mi legyen az első lépés utána.
-Ha esetleg nincs tudod, hogy melyik terület érdekel, csak kódolni akarsz, akkor csak válassz valami testhez állót.</description>
+Ha esetleg nem tudod, hogy melyik terület érdekel, csak kódolni akarsz, akkor csak válassz valami testhez állót.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://petiaccja.github.io/LearnToCode/chapters/types_of_programmers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://petiaccja.github.io/LearnToCode/chapters/types_of_programmers/</guid>
+      <description></description>
     </item>
     
   </channel>
