@@ -22,6 +22,7 @@ Szerencséd van: csak egy számítógépre, két kézre, meg kávéra van szüks
 Alapvetően a középiskolai matematikával fontos, hogy tisztában legyen az ember, hiszen a számítógép mindent számokkal ábrázol. (Ezek a betűk, amiket olvasol, is csak számok. Az 'A' például 65, a 'B' 66...) Nem kell, hogy matekzseni legyél, de egyszerű egyenleteket (polinomiális), mint egy másodfokú, vagy lineáris, tudj megoldani. Alapműveletek, zárójelezés, műveleti sorrend - olykor ezeknél többet egy nap nem is használ egy programozó. Ez elég a kezdőshez, és sokszor a folytatáshoz is, azonban bizonyos feladatok elvégzéséhez szükséged lesz komolyabb matematikai ismeretekre. 
 
 Szakterülettől függően találkozhatsz az alábbi matematikai területekkel, példaként:
+
 - Web frontend fejlesztés: 2D koordináta geometria, szögfüggvények, adatbázis elmélet
 - Web backend fejlesztés: adatbázis elmélet, gráfelmélet, algoritmuselmélet
 - Játékfejlesztés: 3D koordinátageometria, lineáris algebra, alapvető analízis, algoritmuselmélet
@@ -29,12 +30,13 @@ Szakterülettől függően találkozhatsz az alábbi matematikai területekkel, 
 
 ### Nyelvtudás
 
-Nem győzzük hangsúlyozni, hogy az angol nyelv ismerete mennyire fontos. Vannak magyar források is, hisz ezt is magyarul olvasod, de a tényállás az, hogy a legtöbb forrás angolul van. Ebben beletartozik a használt szoftverek nyelve, a tutorialok, hivatalos dokumentációk, blogok, könyvek, és még sok más. A programnyelvekben a kulcsszavak angolul vannak, a kódodat angol nyelven szokás írni, és a kollégákkal olykor angolul kell beszélned. Nem kell megijedni, vannak magyar források is, főként könyvek, és nem kell perfekt angolt beszélned (a királynő akcentusával), a konyhaangol is rengeteget segít. Jó indok a nyelvtanulásra, és jó lehetőség a gyakorlásra.
+Nem győzzük hangsúlyozni, hogy az angol nyelv ismerete mennyire fontos. Vannak magyar források is, hisz ezt is magyarul olvasod, de a tényállás az, hogy a legtöbb forrás angolul van. Ebbe beletartozik a használt szoftverek nyelve, a tutorialok, hivatalos dokumentációk, blogok, könyvek, és még sok más. A programnyelvekben a kulcsszavak angolul vannak, a kódodat angol nyelven szokás írni, és a kollégákkal olykor angolul kell beszélned. Nem kell megijedni, vannak magyar források is, főként könyvek, és nem kell perfekt angolt beszélned (a királynő akcentusával), a konyhaangol is rengeteget segít. Jó indok a nyelvtanulásra, és jó lehetőség a gyakorlásra.
 
 
 ## 3. Tanulási és oktatási lehetőségek
 
 Több lehetőséged is van:
+
 - Önálló tanulás (self-learning)
 - OKJ képzések
 - Bootcampek
