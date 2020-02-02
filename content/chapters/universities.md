@@ -41,7 +41,7 @@ A BSc képzés anatómiája
 - **Grafika**: ha első lépésre nem is fogsz Doomot írni, egy egyszerűbb 3D-s játék nem okozhat gondot.
 - **Mesterséges intelligencia**: mi lenne, ha az autó felismerné a gyalogosokat, és megállna, mielőtt elgázolja őket.
 - **Hálózatok**: a kábelekben lévő elektromos impulzusoktól a HTTP-ig, röviden.
-- és még ez az
+- és még ez-az
 
 ### Szakirány (utolsó év):
 
@@ -65,7 +65,7 @@ Itt tantervről sokkal nehezebb beszélni, hiszen az MSc képzések nagyon kül�
 Mikor érdemes MSc-t csinálni
 ---
 
-Mint ahogy BSc-t sem feltétlenül szükséges, MSc-t sem. Amennyiben felmerült benned, hogy a BSc esetleg félkész tudást ad, és csak az MSc-vel leszel csak teljes szakember, akkor ez nem igaz. A BSc képzés egy jó alapot biztosít, amivel önmagában képes vagy magas szintű munkavégzésre (ha figyeltél órákon) és vállalhatsz állást. Az MSc-vel vagy mélyíteni, vagy szélesíteni lehet a tudásodat, esetleg mindkettő. Az MSc-vel messzebre ér a kezed, olyan munkahelyeken is megállod a helyed, ahol komolyabb szaktudás szükséges, illetve a BSc által egyáltalán nem fedett területeken is vállalhatsz állásokat. A mélyítésre példa, hogy BSc-s irányítástechnikai ismeretekkel nem fogsz tudni a NASA-nál rakétákat programozni, de egy MSc-vel vagy PhD-vel, sokkal komolyabb irányítástechnikai ismeretekkel, igen. A szélesítésre példa, hogy egy BSc-vel nem fogsz tudni robotkezeket tervezni mozgássérültek számára, viszont egy bioinformatikai MSc-vel már igen. Amennyiben ilyen ambícióid vannak, mindenképpen érdemes egy megfelelő MSc képzést elvégezni. Ugyan az MSc-vel talán jobb alkupozícióban vagy, segít a HR-on és a bürökrácián átvergődni, nem biztos, hogy többet ér két év munkatapasztalatnál. Ami a munkatapasztalatot illeti, az MSc tudasanyagát ott is el lehet sajátítani, azonban ez sokszor nehezebb, és több idő, mint egy MSc.
+Mint ahogy BSc-t sem feltétlenül szükséges csinálni, MSc-t sem muszáj. Talán felmerült benned, hogy a BSc esetleg félkész tudást ad, és az MSc-vel leszel csak teljes szakember, de ez nem igaz. A BSc képzés egy jó alapot biztosít, amivel önmagában képes vagy magas szintű munkavégzésre (ha figyeltél órákon) és vállalhatsz állást. Az MSc-vel vagy mélyíteni, vagy szélesíteni lehet a tudásodat, esetleg mindkettő. Az MSc-vel messzebre ér a kezed, olyan munkahelyeken is megállod a helyed, ahol komolyabb szaktudás szükséges, illetve a BSc által egyáltalán nem fedett területeken is vállalhatsz állásokat. A mélyítésre példa, hogy BSc-s irányítástechnikai ismeretekkel nem fogsz tudni a NASA-nál rakétákat programozni, de egy MSc-vel vagy PhD-vel, sokkal komolyabb irányítástechnikai ismeretekkel, igen. A szélesítésre példa, hogy egy BSc-vel nem fogsz tudni robotkezeket tervezni mozgássérültek számára, viszont egy bioinformatikai MSc-vel már igen. Amennyiben ilyen ambícióid vannak, mindenképpen érdemes egy megfelelő MSc képzést elvégezni. Ugyan az MSc-vel talán jobb alkupozícióban vagy, segít a HR-on és a bürökrácián átvergődni, nem biztos, hogy többet ér két év munkatapasztalatnál. Ami a munkatapasztalatot illeti, az MSc tudasanyagát ott is el lehet sajátítani, azonban ez sokszor nehezebb, és több idő, mint egy MSc.
 
 
 Otthon vagy külföldön
@@ -84,7 +84,7 @@ Nyilvánvalóan több ország többféle képzés biztosít, többféle kultúr�
 
 ### Nyelvtanulás és kultúra
 
-Akár csak egy rövid ideig, de külföldön élni mindenképpen rendkívül jó a nyelvtanulást illetően -- akár a helyi nyelvről, akár az angolról beszélünk. Emellett új hatásoknak és kultúráknak leszel kitéve, nem csak a hely, de más külföldi diáktársaid által is. Sokat fejleszt az önállóságodon, önismereteden és a világról algokotott képeden.
+Akár csak egy rövid ideig, de külföldön élni mindenképpen rendkívül jó a nyelvtanulást illetően -- akár a helyi nyelvről, akár az angolról beszélünk. Emellett új hatásoknak és kultúráknak leszel kitéve, nem csak a hely, de más külföldi diáktársaid által is. Sokat fejleszt az önállóságodon, önismereteden és a világról alkotott képeden.
 
 ### Erasmus
 
